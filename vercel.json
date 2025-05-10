@@ -1,0 +1,10 @@
+{
+  "build": {
+    "env": {
+      "VERCEL_IGNORE_BUILDS": "false"
+    }
+  },
+  "scripts": {
+    "prebuild": "pnpm approve-builds"
+  }
+}
