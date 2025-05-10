@@ -54,6 +54,8 @@
     "lucide-react": "^0.454.0",
     "next": "15.2.4",
     "next-themes": "latest",
+    "oracledb": "^6.8.0",
+    "pg-query-stream": "^4.9.6",
     "react": "^19",
     "react-day-picker": "8.10.1",
     "react-dom": "^19",
